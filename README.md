@@ -1,4 +1,7 @@
 ## FNDLVS
+[![Website](https://img.shields.io/website?label=WEB_PAGE&style=for-the-badge&url=https%3A%2F%2Fsites.google.com/view/lovedeepsingh/research/fn_dl_vs)](https://sites.google.com/view/lovedeepsingh/research/fn_dl_vs)
+</br>
+
 **Fake News Detection: a comparison between available Deep Learning techniques in vector space*** &nbsp;
 </br>
 Author: Lovedeep Singh 
